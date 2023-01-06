@@ -22,6 +22,8 @@
 <br>
 
 ### 👬 Activities
+- **[DND](https://dnd.ac/)** - 개발자, 디자이너 연합 동아리 *(2023.01 ~ )*
+- **[Central MakeUs Challenge](https://www.makeus.in/cmc)** - 수익형 앱 런칭 동아리 *(2023.01 ~ )*
 - **[Google Developer Student Clubs Ajou](https://github.com/gdsc-ajou)** - 아주대학교 구글 학생 개발자 모임 *(2022.09 ~ )*
 - **[University MakeUs Challenge](https://www.makeus.in/umc)** - 앱 개발/런칭 대학 연합 동아리 *(2022.03 ~ )*
 - **[SWeat](https://www.instagram.com/ajou.sweat/)** - 아주대학교 SW 교육봉사단 *(2019.03 ~ 2020.08)*
