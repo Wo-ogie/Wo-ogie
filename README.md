@@ -15,6 +15,7 @@
 <br>
 
 ### 👩‍💻 Project
+- **[점.선.면](https://github.com/Team-DotLinePlane) ([제 3회 너디너리 해커톤](https://www.instagram.com/makeus_challenge/) 대상) - 개인의 음식 선호도를 반영한 메뉴 추천 
 - **[Healthper](https://colorful-flat-625.notion.site/HEALTHPER-3b41cb2219ac43d08f2c4c5a2b8fcc39)** - 헬스인들을 위한 헬스 타이머 모바일 앱
 - **[Shorket](https://github.com/Wo-ogie/Shorket) ([2022 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 클러스터링을 이용한 쿠버네티스 기반 전국 플리마켓 운영지원 서비스
 - **[비대면 이동통제시스템 UMCS](https://github.com/Wo-ogie/Untact-Movement-Control-System) ([2021 군 장병 온라인 해커톤](https://osam.kr/home) 정보통신산업진흥원장상)** - 비콘, 블루투스 기반 군 병력 현황 확인/통제 기능 및 코로나 격리 상황 대비 솔루션 제공
