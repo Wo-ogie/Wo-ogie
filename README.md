@@ -15,6 +15,9 @@
 <br>
 
 ### 👩‍💻 Project
+- **[Eatery](https://github.com/orgs/Zelusik/repositories)** - 사용자의 취향에 맞는 음식점을 찾고, 간편하게 음식 리뷰를 작성 및 공유할 수 있는 맛집탐방 서비스
+- **[Reet-Place](https://github.com/dnd-side-project/dnd-8th-2-backend)** - 사용자의 약속 목적을 쉽게 달성할 수 있도록 약속 장소 결정을 돕는 지도 서비스
+- **[위드미](https://github.com/UMC-WithMe)** - 노쇼, 사기 등의 피해를 최소화한 공모전, 스터디, 액티비티 메이트 모집 서비스
 - **[점.선.면.](https://github.com/Team-DotLinePlane) ([제 3회 너디너리 해커톤](https://www.instagram.com/p/CnRwHkyLc0T/?utm_source=ig_web_copy_link) 대상)** - 개인의 음식 선호도를 반영한 그룹형  메뉴 추천 서비스
 - **[Healthper](https://colorful-flat-625.notion.site/HEALTHPER-3b41cb2219ac43d08f2c4c5a2b8fcc39)** - 헬스인들을 위한 헬스 타이머 모바일 앱
 - **[Shorket](https://github.com/Wo-ogie/Shorket) ([2022 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 클러스터링을 이용한 쿠버네티스 기반 전국 플리마켓 운영지원 서비스
@@ -24,7 +27,7 @@
 
 ### 👬 Activities
 - **[DND](https://dnd.ac/)** - 개발자, 디자이너 연합 IT 동아리 *(2023.01 ~ 2023.03)*
-- **[Central MakeUs Challenge](https://www.makeus.in/cmc)** - 기획자, 디자이너, 개발자 연합 수익형 앱 런칭 동아리 *(2023.01 ~ )*
+- **[Central MakeUs Challenge](https://www.makeus.in/cmc)** - 기획자, 디자이너, 개발자 연합 수익형 앱 런칭 동아리 *(2023.01 ~ 2023.03)*
 - **[Google Developer Student Clubs Ajou](https://github.com/gdsc-ajou)** - 아주대학교 구글 학생 개발자 모임 *(2022.09 ~ )*
 - **[University MakeUs Challenge](https://www.makeus.in/umc)** - 앱 개발/런칭 대학 연합 동아리 *(2022.03 ~ )*
 - **[SWeat](https://www.instagram.com/ajou.sweat/)** - 아주대학교 SW 교육봉사단 *(2019.03 ~ 2020.08)*
