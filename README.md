@@ -4,9 +4,9 @@
 ### 🙋‍♂️ About Me
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wo-ogie.notion.site/13d99bdd6564441abaa54763c0f7c746?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://velog.io/@wo_ogie" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=V&logoColor=white"/></a>
   <a href="mailto:siwall0105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://wo-ogie.notion.site/13d99bdd6564441abaa54763c0f7c746?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 ### 👨‍🎓 Education
