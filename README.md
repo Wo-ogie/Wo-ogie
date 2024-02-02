@@ -1,7 +1,7 @@
-## Hello, I'm JaeUk Jeong! 👋
+# Hello, I'm JaeUk Jeong! 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWo-ogie&count_bg=%230066B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wo-ogie.notion.site/13d99bdd6564441abaa54763c0f7c746?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -9,10 +9,10 @@
   <a href="mailto:siwall0105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
-### 👨‍🎓 Education
+## 👨‍🎓 Education
 - **Ajou University** - Software and Computer Engineering *(2019 ~ )*
 
-### 🛠 Skill
+## 🛠 Skill
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
