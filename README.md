@@ -8,7 +8,7 @@
 </div>
 
 ## 👨‍🎓 Education
-- **Ajou University** - Software and Computer Engineering *(2019 ~ )*
+- **Ajou University** - Software and Computer Engineering *(2019 ~ 2025)*
 
 ## 🛠 Skill
 <div>
