@@ -3,6 +3,7 @@
 ## 🙋‍♂️ About Me
 
 <div>
+  <a href="https://woogie-resume.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Resume-111111?style=flat-square&logo=Read.cv&logoColor=white"/></a>
   <a href="https://velog.io/@wo_ogie" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=V&logoColor=white"/></a>
   <a href="mailto:siwall0105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
@@ -25,6 +26,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
 </div>
 
 <div>
